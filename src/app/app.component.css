@@ -1,0 +1,39 @@
+/* Define tus estilos aquí */
+.navbar {
+    background-color: #B3C5D4;
+}
+
+.navbar a.nav-link {
+    color: black; /* Cambia el color del texto a negro */
+}
+
+.navbar-nav {
+    margin-left: 10px; /* Agrega un pequeño margen izquierdo */
+}
+
+.navbar-nav.ml-auto {
+    margin-right: 10px; /* Agrega un pequeño margen derecho */
+}
+
+.btn-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #667F93;
+    color: white;
+    border-radius: 20px; /* Redondea todas las esquinas */
+    margin-right: 10px;
+}
+
+.table {
+    background-color: #B3C5D4;
+}
+
+th, td {
+    text-align: center;
+}
+
+#selectAll {
+    margin-left: 10px;
+}
