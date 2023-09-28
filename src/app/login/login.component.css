@@ -100,3 +100,33 @@ body {
 .btn:hover {
     background-color: #556A7B;
 }
+
+/* Estilos para los campos de texto */
+.input-container {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.rounded-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    outline: none;
+    font-size: 18px;
+}
+
+/* Estilos para el texto "¿Olvidaste tu clave?" */
+.forgot-password {
+    font-size: 16px;
+    color: #667F93;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Estilos para los botones y otros elementos */
+.button {
+    margin-top: 10px;
+}
+
+/* Resto de tus estilos existentes */
