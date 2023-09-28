@@ -54,7 +54,7 @@ body {
     color: #FFFFFF;
     border: none;
     border-radius: 20px;
-    padding: 15px 30px 1px; /* Ajusta el tamaño de los botones */
+    padding: 5px 50px 1px; /* Ajusta el tamaño de los botones */
     cursor: pointer;
     width: 100%; /* Los botones ocupan todo el ancho del contenedor */
     font-size: 40px;
@@ -86,6 +86,7 @@ body {
 /* Estilos para los botones */
 .button {
     margin-bottom: 10px;
+    width: 84%;
 }
 
 .btn {

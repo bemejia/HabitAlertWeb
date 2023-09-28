@@ -9,27 +9,28 @@
     width: 100%;
     margin-left: 0;
     margin-right: 0;
-}
 
-.navbar a.nav-link {
-    color: black; /* Cambia el color del texto a negro */
+
 }
+  
+    
 /* Estilos personalizados */
 .fila {
     background-color: #B3C5D4; /* Color de fondo de la fila del encabezado */
 }
-/* Estilos del navbar */
-.navbar-light {
-    background-color: #B3C5D4;
+
+
+
+.ul {
+    list-style-type: none;
+    padding: 0;
 }
 
-.nav-link {
-    color: #000000; /* Color de texto del navbar */
+li {
+    display: inline; /* Hace que los elementos li aparezcan en línea */
+    margin-right: 20px; /* Espacio entre las opciones */
 }
 
-.nav-link.text-white {
-    color: #FFFFFF; /* Color de texto del enlace "Salir" */
-}
 
 /* Estilos de los botones */
 .btn-primary {
@@ -37,6 +38,7 @@
     color: #FFFFFF;
     border-radius: 20px; /* Borde redondeado */
     margin-right: 10px; /* Espacio entre los botones */
+
 }
 
 /* Estilos de la tabla */
